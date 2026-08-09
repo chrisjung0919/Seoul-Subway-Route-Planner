@@ -1,0 +1,4 @@
+fare_id,min_distance,max_distance,fare
+1,0.0,10,1400
+2,10.01,20,1500
+3,20.01,30,1600
